@@ -4,6 +4,6 @@ The haar cascades can be downloaded from the following sites:
 https://github.com/opencv/opencv/tree/master/data/haarcascades 
 ftp://mozart.dis.ulpgc.es/pub/Software/HaarClassifiers/FaceFeaturesDetectors.zip
 
-The detection parameetrs may need modfication based on you setting
+The detection parameters may need modfication based on you setting
 
 
